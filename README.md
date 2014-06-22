@@ -17,6 +17,12 @@ In this Repo:
 3. run_analysis.R:
  * It can be run as long as the Samsung data is in your working directory. The output is a tidy data set with the average of each variable for each activity and each subject.
 
+4. FinalTidyData.txt:
+ * The output of run_analysis.R
+
+5. FinalTidyData.pdf
+ * To visualize the tidy data better.
+
 ---------
 ### Abstract
 Experiments on Human Activity Recognition have been carried out with a group of people. Each person performed six activities wearing a smartphone on the waist. Using the smartphone embedded accelerometer and gyroscope, it was captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The Data was labeled manually after video-recording the experiments. The obtained data set has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data.
